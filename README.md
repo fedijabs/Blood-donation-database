@@ -1,6 +1,6 @@
 # Blood donation database
 
-This project involves the design and implementation of a Blood Donation Database System using SQL. 
+This project entails the design and construction of a SQL-based blood donation database system. 
 All documentation, including ER diagrams, relational schemas, and key SQL code (such as table creation, data insertion, and queries) is included in the accompanying Word document.
 
 # Project Overview
